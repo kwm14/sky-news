@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Styles",
+    "Device/Mobile"
   ]
 }
