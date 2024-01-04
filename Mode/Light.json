@@ -1,10 +1,10 @@
 {
   "Buttons": {
-    "button-white": {
+    "button-scroll": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "button-share-background": {
+    "button-social": {
       "value": "{System.System white}",
       "type": "color"
     },
@@ -40,15 +40,15 @@
     }
   },
   "Background": {
-    "default-background": {
+    "background-default": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "interactive-background": {
+    "background-interactive": {
       "value": "{Brand.Brand primary 2}",
       "type": "color"
     },
-    "skrim-background": {
+    "background-skrim": {
       "value": "{System.System black}",
       "type": "color",
       "$extensions": {
@@ -61,7 +61,7 @@
         }
       }
     },
-    "time-duration-background": {
+    "background-time-duration": {
       "value": "{System.System black}",
       "type": "color",
       "$extensions": {
@@ -74,11 +74,11 @@
         }
       }
     },
-    "toggle-background": {
+    "background-toggle": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "masthead-background": {
+    "background-masthead": {
       "value": "{System.System linear}",
       "type": "color"
     }
@@ -112,16 +112,16 @@
     }
   },
   "Layout": {
-    "divider": {
+    "layout-divider": {
       "value": "{System.System grey 7}",
       "type": "color"
     },
-    "indicator-brand-1": {
+    "layout-indicator-brand-1": {
       "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
-    "indicator-brand-2": {
-      "value": "{Brand.Brand primary 3}",
+    "layout-indicator-brand-2": {
+      "value": "{Brand.Brand secondary 1}",
       "type": "color"
     }
   },
@@ -140,7 +140,7 @@
     }
   },
   "Text": {
-    "text-white": {
+    "text-tertiary": {
       "value": "{System.System white}",
       "type": "color"
     },
@@ -204,11 +204,11 @@
     }
   },
   "Nav": {
-    "tab-primary": {
+    "nav-tab-primary": {
       "value": "{Brand.Utility blue 1}",
       "type": "color"
     },
-    "tab-secondary": {
+    "nav-tab-secondary": {
       "value": "{System.System white}",
       "type": "color"
     }

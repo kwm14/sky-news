@@ -8,19 +8,19 @@
       "value": "linear-gradient(180deg, #063e7b 0%, #032c77 100%)",
       "type": "color"
     },
-    "Brand primary 3": {
+    "Brand secondary 1": {
       "value": "#D0021B",
       "type": "color"
     },
-    "Brand primary 4": {
+    "Brand  secondary 2": {
       "value": "linear-gradient(180deg, #e90e10 0%, #bc0000 100%)",
       "type": "color"
     },
-    "Brand primary 5": {
+    "Brand tertiary 1": {
       "value": "#ECEDED",
       "type": "color"
     },
-    "Brand primary 6": {
+    "Brand tertiary 2": {
       "value": "linear-gradient(180deg, #f5f5f5 0%, #e3e4e4 100%)",
       "type": "color"
     },
@@ -599,6 +599,15 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Body 2 Bold": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-text}",
+        "fontWeight": "{fontWeights.sky-text-2}",
+        "fontSize": "{fontSize.2}",
+        "lineHeight": "{lineHeights.3}"
       },
       "type": "typography"
     }
