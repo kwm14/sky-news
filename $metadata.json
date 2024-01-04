@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
-    "styles",
-    "Device/mobile"
+    "Styles",
+    "Device/Mobile",
+    "Mode/Light"
   ]
 }

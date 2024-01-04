@@ -1,0 +1,216 @@
+{
+  "Buttons": {
+    "button-white": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "button-share-background": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "button-primary": {
+      "value": "{Brand.Utility blue 1}",
+      "type": "color"
+    },
+    "button-primary-stroke": {
+      "value": "{Brand.Utility blue 1}",
+      "type": "color"
+    },
+    "button-toggle": {
+      "value": "{System.System grey 3}",
+      "type": "color"
+    }
+  },
+  "Tags": {
+    "tag-live": {
+      "value": "{Brand.Utility red}",
+      "type": "color"
+    },
+    "tag-breaking-2": {
+      "value": "{Brand.Utility yellow}",
+      "type": "color"
+    },
+    "tag-breaking-1": {
+      "value": "{System.System black}",
+      "type": "color"
+    },
+    "tag-other": {
+      "value": "{Brand.Brand primary 2}",
+      "type": "color"
+    }
+  },
+  "Background": {
+    "default-background": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "interactive-background": {
+      "value": "{Brand.Brand primary 2}",
+      "type": "color"
+    },
+    "skrim-background": {
+      "value": "{System.System black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.65",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "time-duration-background": {
+      "value": "{System.System black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.65",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "toggle-background": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "masthead-background": {
+      "value": "{System.System linear}",
+      "type": "color"
+    }
+  },
+  "Base": {
+    "base-unfocused": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "base-stroke": {
+      "value": "{Brand.Brand primary 1}",
+      "type": "color"
+    }
+  },
+  "Icons": {
+    "icon-white": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "icon-brand": {
+      "value": "{Brand.Brand primary 1}",
+      "type": "color"
+    },
+    "icon-primary": {
+      "value": "{System.System grey 3}",
+      "type": "color"
+    },
+    "icon-secondary": {
+      "value": "{System.System grey 5}",
+      "type": "color"
+    }
+  },
+  "Layout": {
+    "divider": {
+      "value": "{System.System grey 7}",
+      "type": "color"
+    },
+    "indicator-brand-1": {
+      "value": "{Brand.Brand primary 1}",
+      "type": "color"
+    },
+    "indicator-brand-2": {
+      "value": "{Brand.Brand primary 3}",
+      "type": "color"
+    }
+  },
+  "Control": {
+    "progress-bar-background": {
+      "value": "{System.System grey 7}",
+      "type": "color"
+    },
+    "progress-bar-loading": {
+      "value": "{System.System grey 6}",
+      "type": "color"
+    },
+    "progress-bar-fill": {
+      "value": "{Brand.Utility blue 3}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "text-white": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "button-primary": {
+      "value": "{Brand.Utility blue 1}",
+      "type": "color"
+    },
+    "button-white": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "text-primary": {
+      "value": "{System.System grey 3}",
+      "type": "color"
+    },
+    "text-category": {
+      "value": "{Brand.Brand primary 1}",
+      "type": "color"
+    },
+    "text-breaking-2": {
+      "value": "{Brand.Utility yellow}",
+      "type": "color"
+    },
+    "text-black": {
+      "value": "{System.System black}",
+      "type": "color"
+    },
+    "text-secondary": {
+      "value": "{System.System grey 5}",
+      "type": "color"
+    },
+    "text-error": {
+      "value": "{System.System red}",
+      "type": "color"
+    },
+    "number-brand": {
+      "value": "{Brand.Brand primary 1}",
+      "type": "color"
+    },
+    "text-article": {
+      "value": "{Brand.Utility blue 1}",
+      "type": "color"
+    }
+  },
+  "Cell": {
+    "input-background": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "input-stroke": {
+      "value": "{System.System grey 7}",
+      "type": "color"
+    },
+    "toggle-stroke": {
+      "value": "{System.System grey 6}",
+      "type": "color"
+    },
+    "toggle-background": {
+      "value": "{System.System white}",
+      "type": "color"
+    }
+  },
+  "Nav": {
+    "tab-primary": {
+      "value": "{Brand.Utility blue 1}",
+      "type": "color"
+    },
+    "tab-secondary": {
+      "value": "{System.System white}",
+      "type": "color"
+    }
+  }
+}
