@@ -5,11 +5,11 @@
       "type": "typography"
     },
     "button-white": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "button-share-background": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "button-primary": {
@@ -63,7 +63,7 @@
   },
   "Background": {
     "default-background": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "interactive-background": {
@@ -97,7 +97,7 @@
       }
     },
     "toggle-background": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "masthead-background": {
@@ -107,7 +107,7 @@
   },
   "Base": {
     "base-unfocused": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "base-stroke": {
@@ -155,7 +155,7 @@
   },
   "Icons": {
     "icon-white": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "icon-brand": {
@@ -201,7 +201,7 @@
   },
   "Text": {
     "text-white": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "button-primary": {
@@ -209,7 +209,7 @@
       "type": "color"
     },
     "button-white": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "text-primary": {
@@ -297,7 +297,7 @@
   },
   "Cell": {
     "input-background": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "input-stroke": {
@@ -309,7 +309,7 @@
       "type": "color"
     },
     "toggle-background": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     }
   },
@@ -327,7 +327,7 @@
       "type": "color"
     },
     "tab-secondary": {
-      "value": "{System.system-white}",
+      "value": "{System.System white}",
       "type": "color"
     }
   },
