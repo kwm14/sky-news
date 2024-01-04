@@ -23,6 +23,10 @@
     "tag-category": {
       "value": "{Mobile/System.Body 2}",
       "type": "typography"
+    },
+    "tag-updates": {
+      "value": "{Mobile/System.Body 2 Bold}",
+      "type": "typography"
     }
   },
   "Radius": {
@@ -110,6 +114,14 @@
     },
     "body-more-article": {
       "value": "{Mobile/System.Body 1 strong}",
+      "type": "typography"
+    },
+    "body-video": {
+      "value": "{Mobile/System.Body 1}",
+      "type": "typography"
+    },
+    "body-video-watching": {
+      "value": "{Mobile/System.Body 2 Bold}",
       "type": "typography"
     }
   },
