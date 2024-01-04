@@ -144,7 +144,7 @@
       "value": "{System.System white}",
       "type": "color"
     },
-    "button-primary": {
+    "text-button-primary": {
       "value": "{Brand.Utility blue 1}",
       "type": "color"
     },
@@ -176,7 +176,7 @@
       "value": "{System.System red}",
       "type": "color"
     },
-    "number-brand": {
+    "text-number-brand": {
       "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
