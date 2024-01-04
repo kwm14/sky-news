@@ -83,6 +83,10 @@
     "time-player-article": {
       "value": "{Mobile/System.Caption 2}",
       "type": "typography"
+    },
+    "time-timeline": {
+      "value": "{Mobile/System.Body 2 Bold}",
+      "type": "typography"
     }
   },
   "Input": {
@@ -122,6 +126,10 @@
     },
     "body-video-watching": {
       "value": "{Mobile/System.Body 2 Bold}",
+      "type": "typography"
+    },
+    "body-timeline-feed": {
+      "value": "{Mobile/System.Body 2}",
       "type": "typography"
     }
   },
