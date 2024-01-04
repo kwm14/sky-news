@@ -1,7 +1,7 @@
 {
   "Buttons": {
     "button": {
-      "value": "{System.body-1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "button-white": {
@@ -21,19 +21,19 @@
       "type": "color"
     },
     "button-toggle": {
-      "value": "{System.system-grey-3}",
+      "value": "{System.System grey 3}",
       "type": "color"
     }
   },
   "Links": {
     "link": {
-      "value": "{System.body-1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     }
   },
   "Tags": {
     "tag-label": {
-      "value": "{System.body-2-strong}",
+      "value": "{System.Body 2 strong}",
       "type": "typography"
     },
     "tag-live": {
@@ -41,11 +41,11 @@
       "type": "color"
     },
     "tag": {
-      "value": "{corner-radius-0}",
+      "value": "{Corner radius 0}",
       "type": "borderRadius"
     },
     "tag-category": {
-      "value": "{System.body-2}",
+      "value": "{System.Body 2}",
       "type": "typography"
     },
     "tag-breaking-2": {
@@ -53,7 +53,7 @@
       "type": "color"
     },
     "tag-breaking-1": {
-      "value": "{System.system-black}",
+      "value": "{System.System black}",
       "type": "color"
     },
     "tag-other": {
@@ -71,7 +71,7 @@
       "type": "color"
     },
     "skrim-background": {
-      "value": "{System.system-black}",
+      "value": "{System.System black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -84,7 +84,7 @@
       }
     },
     "time-duration-background": {
-      "value": "{System.system-black}",
+      "value": "{System.System black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -101,7 +101,7 @@
       "type": "color"
     },
     "masthead-background": {
-      "value": "{System.system-linear}",
+      "value": "{System.System linear}",
       "type": "color"
     }
   },
@@ -118,38 +118,38 @@
   "Radius": {
     "Base": {
       "base-unfocused": {
-        "value": "{corner-radius-0}",
+        "value": "{Corner radius 0}",
         "type": "borderRadius"
       }
     },
     "Buttons": {
       "button-next": {
-        "value": "{corner-radius-100}",
+        "value": "{Corner radius 100}",
         "type": "borderRadius"
       },
       "button-share": {
-        "value": "{corner-radius-4}",
+        "value": "{Corner radius 4}",
         "type": "borderRadius"
       },
       "button": {
-        "value": "{corner-radius-4}",
+        "value": "{Corner radius 4}",
         "type": "borderRadius"
       },
       "toggle": {
-        "value": "{corner-radius-100}",
+        "value": "{Corner radius 100}",
         "type": "borderRadius"
       }
     },
     "Input": {
       "input-field": {
-        "value": "{corner-radius-8}",
+        "value": "{Corner radius 8}",
         "type": "borderRadius"
       }
     }
   },
   "Shadows": {
     "base-shadow": {
-      "value": "{drop-shadow-1}",
+      "value": "{Drop shadow 1}",
       "type": "boxShadow"
     }
   },
@@ -163,17 +163,17 @@
       "type": "color"
     },
     "icon-primary": {
-      "value": "{System.system-grey-3}",
+      "value": "{System.System grey 3}",
       "type": "color"
     },
     "icon-secondary": {
-      "value": "{System.system-grey-5}",
+      "value": "{System.System grey 5}",
       "type": "color"
     }
   },
   "Layout": {
     "divider": {
-      "value": "{System.system-grey-7}",
+      "value": "{System.System grey 7}",
       "type": "color"
     },
     "indicator-brand-1": {
@@ -187,11 +187,11 @@
   },
   "Control": {
     "progress-bar-background": {
-      "value": "{System.system-grey-7}",
+      "value": "{System.System grey 7}",
       "type": "color"
     },
     "progress-bar-loading": {
-      "value": "{System.system-grey-6}",
+      "value": "{System.System grey 6}",
       "type": "color"
     },
     "progress-bar-fill": {
@@ -213,11 +213,11 @@
       "type": "color"
     },
     "text-primary": {
-      "value": "{System.system-grey-3}",
+      "value": "{System.System grey 3}",
       "type": "color"
     },
     "text-category": {
-      "value": "{Brand.brand-primary-1}",
+      "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
     "text-breaking-2": {
@@ -225,19 +225,19 @@
       "type": "color"
     },
     "text-black": {
-      "value": "{System.system-black}",
+      "value": "{System.System black}",
       "type": "color"
     },
     "text-secondary": {
-      "value": "{System.system-grey-5}",
+      "value": "{System.System grey 5}",
       "type": "color"
     },
     "text-error": {
-      "value": "{System.system-red}",
+      "value": "{System.System red}",
       "type": "color"
     },
     "number-brand": {
-      "value": "{Brand.brand-primary-1}",
+      "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
     "text-article": {
@@ -247,51 +247,51 @@
   },
   "Time": {
     "time-stamp": {
-      "value": "{System.caption-2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     },
     "time-label": {
-      "value": "{System.caption-1-strong}",
+      "value": "{System.Caption 1 strong}",
       "type": "typography"
     },
     "time-duration": {
-      "value": "{corner-radius-4}",
+      "value": "{Corner radius 4}",
       "type": "borderRadius"
     },
     "time-player-article": {
-      "value": "{System.caption-2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     }
   },
   "Input": {
     "title-cell": {
-      "value": "{System.body-1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "title-cell-strong": {
-      "value": "{System.body-1-strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     },
     "cell-label": {
-      "value": "{System.body-1-strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     }
   },
   "Body": {
     "body": {
-      "value": "{System.body-1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "body-player-article": {
-      "value": "{System.caption-1}",
+      "value": "{System.Caption 1}",
       "type": "typography"
     },
     "body-bullet": {
-      "value": "{System.body-1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "body-more-article": {
-      "value": "{System.body-1-strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     }
   },
@@ -301,11 +301,11 @@
       "type": "color"
     },
     "input-stroke": {
-      "value": "{System.system-grey-7}",
+      "value": "{System.System grey 7}",
       "type": "color"
     },
     "toggle-stroke": {
-      "value": "{System.system-grey-6}",
+      "value": "{System.System grey 6}",
       "type": "color"
     },
     "toggle-background": {
@@ -319,7 +319,7 @@
       "type": "typography"
     },
     "nav-tab-strong": {
-      "value": "{System.body-1-strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     },
     "tab-primary": {
@@ -333,23 +333,23 @@
   },
   "Title": {
     "title-media": {
-      "value": "{System.caption-1}",
+      "value": "{System.Caption 1}",
       "type": "typography"
     },
     "title-question": {
-      "value": "{System.subtitle-1-strong}",
+      "value": "{System.Subtitle 1 strong}",
       "type": "typography"
     },
     "title-player-article": {
-      "value": "{System.caption-2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     },
     "title-article": {
-      "value": "{System.headline-1}",
+      "value": "{System.Headline 1}",
       "type": "typography"
     },
     "title-most-read": {
-      "value": "{System.headline-3}",
+      "value": "{System.Headline 3}",
       "type": "typography"
     },
     "title-number": {
@@ -359,7 +359,7 @@
   },
   "Image": {
     "article": {
-      "value": "{corner-radius-0}",
+      "value": "{Corner radius 0}",
       "type": "borderRadius"
     }
   }
