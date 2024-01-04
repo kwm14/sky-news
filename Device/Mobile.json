@@ -168,8 +168,12 @@
       "value": "{Mobile/Brand.Display 2}",
       "type": "typography"
     },
-    "title-hero-article": {
+    "title-hero-tile": {
       "value": "{Mobile/System.Headline 3}",
+      "type": "typography"
+    },
+    "title-widget-tile": {
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     }
   },
