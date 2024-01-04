@@ -81,6 +81,10 @@
     "background-masthead": {
       "value": "{System.System linear}",
       "type": "color"
+    },
+    "background-breaking": {
+      "value": "{Brand.Utility yellow}",
+      "type": "color"
     }
   },
   "Base": {
@@ -164,7 +168,7 @@
       "value": "{Brand.Utility yellow}",
       "type": "color"
     },
-    "text-black": {
+    "text-breaking-1": {
       "value": "{System.System black}",
       "type": "color"
     },
