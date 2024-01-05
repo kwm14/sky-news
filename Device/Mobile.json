@@ -179,6 +179,10 @@
     "title-standard-tile": {
       "value": "{Mobile/System.Subtitle 1}",
       "type": "typography"
+    },
+    "title-video-tile": {
+      "value": "{Mobile/System.Body 1}",
+      "type": "typography"
     }
   },
   "Image": {

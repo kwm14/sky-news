@@ -175,10 +175,6 @@
     "title-widget-tile": {
       "value": "{Mobile/System.Body 1}",
       "type": "typography"
-    },
-    "title-standard-tile": {
-      "value": "{Mobile/System.Subtitle 1}",
-      "type": "typography"
     }
   },
   "Image": {
