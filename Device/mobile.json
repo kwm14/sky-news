@@ -1,118 +1,32 @@
 {
   "Buttons": {
     "button": {
-      "value": "{System.Body 1}",
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
-    },
-    "button-white": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "button-share-background": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "button-primary": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    },
-    "button-primary-stroke": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    },
-    "button-toggle": {
-      "value": "{System.System grey 3}",
-      "type": "color"
     }
   },
   "Links": {
     "link": {
-      "value": "{System.Body 1}",
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     }
   },
   "Tags": {
     "tag-label": {
-      "value": "{System.Body 2 strong}",
+      "value": "{Mobile/System.Body 2 strong}",
       "type": "typography"
-    },
-    "tag-live": {
-      "value": "{Brand.Utility red}",
-      "type": "color"
     },
     "tag": {
       "value": "{Corner radius 0}",
       "type": "borderRadius"
     },
     "tag-category": {
-      "value": "{System.Body 2}",
+      "value": "{Mobile/System.Body 2}",
       "type": "typography"
     },
-    "tag-breaking-2": {
-      "value": "{Brand.Utility yellow}",
-      "type": "color"
-    },
-    "tag-breaking-1": {
-      "value": "{System.System black}",
-      "type": "color"
-    },
-    "tag-other": {
-      "value": "{Brand.Brand primary 2}",
-      "type": "color"
-    }
-  },
-  "Background": {
-    "default-background": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "interactive-background": {
-      "value": "{Brand.Brand primary 2}",
-      "type": "color"
-    },
-    "skrim-background": {
-      "value": "{System.System black}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.65",
-            "space": "lch"
-          }
-        }
-      }
-    },
-    "time-duration-background": {
-      "value": "{System.System black}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.65",
-            "space": "lch"
-          }
-        }
-      }
-    },
-    "toggle-background": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "masthead-background": {
-      "value": "{System.System linear}",
-      "type": "color"
-    }
-  },
-  "Base": {
-    "base-unfocused": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "base-stroke": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
+    "tag-updates": {
+      "value": "{Mobile/System.Body 2 Bold}",
+      "type": "typography"
     }
   },
   "Radius": {
@@ -153,105 +67,13 @@
       "type": "boxShadow"
     }
   },
-  "Icons": {
-    "icon-white": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "icon-brand": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "icon-primary": {
-      "value": "{System.System grey 3}",
-      "type": "color"
-    },
-    "icon-secondary": {
-      "value": "{System.System grey 5}",
-      "type": "color"
-    }
-  },
-  "Layout": {
-    "divider": {
-      "value": "{System.System grey 7}",
-      "type": "color"
-    },
-    "indicator-brand-1": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "indicator-brand-2": {
-      "value": "{Brand.Brand primary 3}",
-      "type": "color"
-    }
-  },
-  "Control": {
-    "progress-bar-background": {
-      "value": "{System.System grey 7}",
-      "type": "color"
-    },
-    "progress-bar-loading": {
-      "value": "{System.System grey 6}",
-      "type": "color"
-    },
-    "progress-bar-fill": {
-      "value": "{Brand.Utility blue 3}",
-      "type": "color"
-    }
-  },
-  "Text": {
-    "text-white": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "button-primary": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    },
-    "button-white": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "text-primary": {
-      "value": "{System.System grey 3}",
-      "type": "color"
-    },
-    "text-category": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "text-breaking-2": {
-      "value": "{Brand.Utility yellow}",
-      "type": "color"
-    },
-    "text-black": {
-      "value": "{System.System black}",
-      "type": "color"
-    },
-    "text-secondary": {
-      "value": "{System.System grey 5}",
-      "type": "color"
-    },
-    "text-error": {
-      "value": "{System.System red}",
-      "type": "color"
-    },
-    "number-brand": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "text-article": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    }
-  },
   "Time": {
     "time-stamp": {
-      "value": "{System.Caption 2}",
+      "value": "{Mobile/System.Caption 2}",
       "type": "typography"
     },
     "time-label": {
-      "value": "{System.Caption 1 strong}",
+      "value": "{Mobile/System.Caption 1 strong}",
       "type": "typography"
     },
     "time-duration": {
@@ -259,58 +81,56 @@
       "type": "borderRadius"
     },
     "time-player-article": {
-      "value": "{System.Caption 2}",
+      "value": "{Mobile/System.Caption 2}",
+      "type": "typography"
+    },
+    "time-timeline": {
+      "value": "{Mobile/System.Body 2 Bold}",
       "type": "typography"
     }
   },
   "Input": {
     "title-cell": {
-      "value": "{System.Body 1}",
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     },
     "title-cell-strong": {
-      "value": "{System.Body 1 strong}",
+      "value": "{Mobile/System.Body 1 strong}",
       "type": "typography"
     },
     "cell-label": {
-      "value": "{System.Body 1 strong}",
+      "value": "{Mobile/System.Body 1 strong}",
       "type": "typography"
     }
   },
   "Body": {
     "body": {
-      "value": "{System.Body 1}",
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     },
     "body-player-article": {
-      "value": "{System.Caption 1}",
+      "value": "{Mobile/System.Caption 1}",
       "type": "typography"
     },
     "body-bullet": {
-      "value": "{System.Body 1}",
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     },
     "body-more-article": {
-      "value": "{System.Body 1 strong}",
+      "value": "{Mobile/System.Body 1 strong}",
       "type": "typography"
-    }
-  },
-  "Cell": {
-    "input-background": {
-      "value": "{System.System white}",
-      "type": "color"
     },
-    "input-stroke": {
-      "value": "{System.System grey 7}",
-      "type": "color"
+    "body-video": {
+      "value": "{Mobile/System.Body 1}",
+      "type": "typography"
     },
-    "toggle-stroke": {
-      "value": "{System.System grey 6}",
-      "type": "color"
+    "body-video-watching": {
+      "value": "{Mobile/System.Body 2 Bold}",
+      "type": "typography"
     },
-    "toggle-background": {
-      "value": "{System.System white}",
-      "type": "color"
+    "body-timeline-feed": {
+      "value": "{Mobile/System.Body 2}",
+      "type": "typography"
     }
   },
   "Nav": {
@@ -319,41 +139,41 @@
       "type": "typography"
     },
     "nav-tab-strong": {
-      "value": "{System.Body 1 strong}",
+      "value": "{Mobile/System.Body 1 strong}",
       "type": "typography"
-    },
-    "tab-primary": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    },
-    "tab-secondary": {
-      "value": "{System.System white}",
-      "type": "color"
     }
   },
   "Title": {
     "title-media": {
-      "value": "{System.Caption 1}",
+      "value": "{Mobile/System.Caption 1}",
       "type": "typography"
     },
     "title-question": {
-      "value": "{System.Subtitle 1 strong}",
+      "value": "{Mobile/System.Subtitle 1 strong}",
       "type": "typography"
     },
     "title-player-article": {
-      "value": "{System.Caption 2}",
+      "value": "{Mobile/System.Caption 2}",
       "type": "typography"
     },
     "title-article": {
-      "value": "{System.Headline 1}",
+      "value": "{Mobile/System.Headline 1}",
       "type": "typography"
     },
     "title-most-read": {
-      "value": "{System.Headline 3}",
+      "value": "{Mobile/System.Headline 3}",
       "type": "typography"
     },
     "title-number": {
-      "value": "{Brand.Display 2}",
+      "value": "{Mobile/Brand.Display 2}",
+      "type": "typography"
+    },
+    "title-hero-tile": {
+      "value": "{Mobile/System.Headline 3}",
+      "type": "typography"
+    },
+    "title-widget-tile": {
+      "value": "{Mobile/System.Body 1}",
       "type": "typography"
     }
   },
