@@ -1,5 +1,5 @@
 {
-  "Brand": {
+  "Color/Brand": {
     "Brand primary 1": {
       "value": "#063E7B",
       "type": "color"
@@ -49,7 +49,7 @@
       "type": "color"
     }
   },
-  "Brand": {
+  "Typography/Brand": {
     "Display 1": {
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
@@ -82,7 +82,7 @@
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
         "fontWeight": "{fontWeights.sky-headline-2}",
-        "lineHeight": "{lineHeights.0}",
+        "lineHeight": "{lineHeights.5}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -96,8 +96,8 @@
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
         "fontWeight": "{fontWeights.sky-headline-2}",
-        "lineHeight": "{lineHeights.6}",
-        "fontSize": "{fontSize.9}",
+        "lineHeight": "{lineHeights.10}",
+        "fontSize": "{fontSize.13}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -110,29 +110,14 @@
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
         "fontWeight": "{fontWeights.sky-headline-2}",
-        "lineHeight": "{lineHeights.7}",
-        "fontSize": "{fontSize.8}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "Display 6": {
-      "value": {
-        "fontFamily": "{fontFamilies.sky-headline}",
-        "fontWeight": "{fontWeights.sky-headline-2}",
         "lineHeight": "{lineHeights.8}",
-        "fontSize": "{fontSize.7}",
+        "fontSize": "{fontSize.12}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     }
   },
   "Sub Brand": {
@@ -395,12 +380,15 @@
     "11": {
       "value": "48",
       "type": "fontSizes"
-    }
     },
     "12": {
     "value": "28",
     "type": "fontSizes"
-  }
+    },
+    "13": {
+    "value": "30",
+    "type": "fontSizes"
+    }
   },
   "letterSpacing": {
     "0": {
@@ -414,7 +402,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "System": {
+  "Typography/System": {
     "Headline 1": {
       "value": {
         "fontFamily": "{fontFamilies.sky-text}",
@@ -621,7 +609,7 @@
       "type": "typography"
     }
   },
-  "System": {
+  "Color/System": {
     "System black": {
       "value": "#000000",
       "type": "color"
