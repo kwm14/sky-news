@@ -1,19 +1,19 @@
 {
   "Buttons": {
     "button": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     }
   },
   "Links": {
     "link": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     }
   },
   "Tags": {
     "tag-label": {
-      "value": "{Mobile/System.Body 2 strong}",
+      "value": "{System.Body 2 strong}",
       "type": "typography"
     },
     "tag": {
@@ -21,11 +21,11 @@
       "type": "borderRadius"
     },
     "tag-category": {
-      "value": "{Mobile/System.Body 2}",
+      "value": "{System.Body 2}",
       "type": "typography"
     },
     "tag-updates": {
-      "value": "{Mobile/System.Body 2 Bold}",
+      "value": "{System.Body 2 Bold}",
       "type": "typography"
     }
   },
@@ -69,11 +69,11 @@
   },
   "Time": {
     "time-stamp": {
-      "value": "{Mobile/System.Caption 2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     },
     "time-label": {
-      "value": "{Mobile/System.Caption 1 strong}",
+      "value": "{System.Caption 1 strong}",
       "type": "typography"
     },
     "time-duration": {
@@ -81,55 +81,55 @@
       "type": "borderRadius"
     },
     "time-player-article": {
-      "value": "{Mobile/System.Caption 2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     },
     "time-timeline": {
-      "value": "{Mobile/System.Body 2 Bold}",
+      "value": "{System.Body 2 Bold}",
       "type": "typography"
     }
   },
   "Input": {
     "title-cell": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "title-cell-strong": {
-      "value": "{Mobile/System.Body 1 strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     },
     "cell-label": {
-      "value": "{Mobile/System.Body 1 strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     }
   },
   "Body": {
     "body": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "body-player-article": {
-      "value": "{Mobile/System.Caption 1}",
+      "value": "{System.Caption 1}",
       "type": "typography"
     },
     "body-bullet": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "body-more-article": {
-      "value": "{Mobile/System.Body 1 strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     },
     "body-video": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     },
     "body-video-watching": {
-      "value": "{Mobile/System.Body 2 Bold}",
+      "value": "{System.Body 2 Bold}",
       "type": "typography"
     },
     "body-timeline-feed": {
-      "value": "{Mobile/System.Body 2}",
+      "value": "{System.Body 2}",
       "type": "typography"
     }
   },
@@ -139,41 +139,41 @@
       "type": "typography"
     },
     "nav-tab-strong": {
-      "value": "{Mobile/System.Body 1 strong}",
+      "value": "{System.Body 1 strong}",
       "type": "typography"
     }
   },
   "Title": {
     "title-media": {
-      "value": "{Mobile/System.Caption 1}",
+      "value": "{System.Caption 1}",
       "type": "typography"
     },
     "title-question": {
-      "value": "{Mobile/System.Subtitle 1 strong}",
+      "value": "{System.Subtitle 1 strong}",
       "type": "typography"
     },
     "title-player-article": {
-      "value": "{Mobile/System.Caption 2}",
+      "value": "{System.Caption 2}",
       "type": "typography"
     },
     "title-article": {
-      "value": "{Mobile/System.Headline 1}",
+      "value": "{System.Headline 1}",
       "type": "typography"
     },
     "title-most-read": {
-      "value": "{Mobile/System.Headline 3}",
+      "value": "{System.Headline 3}",
       "type": "typography"
     },
     "title-number": {
-      "value": "{Mobile/Brand.Display 2}",
+      "value": "{Brand.Display 2}",
       "type": "typography"
     },
     "title-hero-tile": {
-      "value": "{Mobile/System.Headline 3}",
+      "value": "{System.Headline 3}",
       "type": "typography"
     },
     "title-widget-tile": {
-      "value": "{Mobile/System.Body 1}",
+      "value": "{System.Body 1}",
       "type": "typography"
     }
   },
