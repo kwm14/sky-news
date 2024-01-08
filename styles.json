@@ -117,7 +117,8 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
-      }
+      },
+      "type": "typography"
     }
   },
   "Sub Brand": {
