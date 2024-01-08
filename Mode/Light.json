@@ -1,14 +1,14 @@
 {
   "Buttons": {
-    "button-scroll": {
+    "button-next-fill": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "button-social": {
+    "button-share-fill": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "button-primary": {
+    "button-primary-fill": {
       "value": "{Brand.Utility blue 1}",
       "type": "color"
     },
@@ -16,8 +16,12 @@
       "value": "{Brand.Utility blue 1}",
       "type": "color"
     },
-    "button-toggle": {
+    "button-toggle-fill": {
       "value": "{System.System grey 3}",
+      "type": "color"
+    },
+    "button-text-primary": {
+      "value": "{Brand.Utility blue 1}",
       "type": "color"
     }
   },
@@ -37,10 +41,22 @@
     "tag-other": {
       "value": "{Brand.Brand primary 2}",
       "type": "color"
+    },
+    "tag-text-primary": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "tag-text-breaking-2": {
+      "value": "{Brand.Utility yellow}",
+      "type": "color"
+    },
+    "tag-text-breaking-1": {
+      "value": "{System.System black}",
+      "type": "color"
     }
   },
   "Background": {
-    "background-default": {
+    "background-surface": {
       "value": "{System.System white}",
       "type": "color"
     },
@@ -138,46 +154,32 @@
       "value": "{System.System grey 6}",
       "type": "color"
     },
-    "control-progress-bar": {
+    "control-progress-fill": {
       "value": "{Brand.Utility blue 3}",
       "type": "color"
     }
   },
-  "Text": {
-    "text-tertiary": {
+  "System": {
+    "system-text-tertiary": {
       "value": "{System.System white}",
       "type": "color"
     },
-    "text-button-primary": {
-      "value": "{Brand.Utility blue 1}",
-      "type": "color"
-    },
-    "button-white": {
-      "value": "{System.System white}",
-      "type": "color"
-    },
-    "text-primary": {
+    "system-text-primary": {
       "value": "{System.System grey 3}",
       "type": "color"
     },
-    "text-category": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "text-breaking-2": {
-      "value": "{Brand.Utility yellow}",
-      "type": "color"
-    },
-    "text-breaking-1": {
-      "value": "{System.System black}",
-      "type": "color"
-    },
-    "text-secondary": {
+    "system-text-secondary": {
       "value": "{System.System grey 5}",
       "type": "color"
     },
-    "text-error": {
+    "system-text-error": {
       "value": "{System.System red}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "text-category": {
+      "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
     "text-number-brand": {
@@ -213,6 +215,14 @@
       "type": "color"
     },
     "nav-tab-secondary": {
+      "value": "{System.System white}",
+      "type": "color"
+    },
+    "nav-text-primary": {
+      "value": "{System.System grey 3}",
+      "type": "color"
+    },
+    "nav-text-secondary": {
       "value": "{System.System white}",
       "type": "color"
     }
