@@ -383,12 +383,12 @@
       "type": "fontSizes"
     },
     "12": {
-    "value": "28",
-    "type": "fontSizes"
+      "value": "28",
+      "type": "fontSizes"
     },
     "13": {
-    "value": "30",
-    "type": "fontSizes"
+      "value": "30",
+      "type": "fontSizes"
     }
   },
   "letterSpacing": {

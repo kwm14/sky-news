@@ -1,5 +1,5 @@
 {
-  "Color/Brand": {
+  "Brand": {
     "Brand primary 1": {
       "value": "#063E7B",
       "type": "color"
@@ -47,9 +47,7 @@
     "Utility yellow": {
       "value": "linear-gradient(180deg, #ffef75 0%, #fde000 100%)",
       "type": "color"
-    }
-  },
-  "Typography/Brand": {
+    },
     "Display 1": {
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
@@ -383,12 +381,12 @@
       "type": "fontSizes"
     },
     "12": {
-    "value": "28",
-    "type": "fontSizes"
+      "value": "28",
+      "type": "fontSizes"
     },
     "13": {
-    "value": "30",
-    "type": "fontSizes"
+      "value": "30",
+      "type": "fontSizes"
     }
   },
   "letterSpacing": {
@@ -403,7 +401,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "Typography/System": {
+  "System": {
     "Headline 1": {
       "value": {
         "fontFamily": "{fontFamilies.sky-text}",
@@ -608,9 +606,7 @@
         "lineHeight": "{lineHeights.3}"
       },
       "type": "typography"
-    }
-  },
-  "Color/System": {
+    },
     "System black": {
       "value": "#000000",
       "type": "color"

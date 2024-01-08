@@ -175,6 +175,10 @@
     "title-widget-tile": {
       "value": "{System.Body 1}",
       "type": "typography"
+    },
+    "title-video-rail": {
+      "value": "{Brand.Display 4}",
+      "type": "typography"
     }
   },
   "Image": {
