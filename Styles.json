@@ -47,7 +47,9 @@
     "Utility yellow": {
       "value": "linear-gradient(180deg, #ffef75 0%, #fde000 100%)",
       "type": "color"
-    },
+    }
+  },
+  "Brand": {
     "Display 1": {
       "value": {
         "fontFamily": "{fontFamilies.sky-headline}",
@@ -381,12 +383,12 @@
       "type": "fontSizes"
     },
     "12": {
-      "value": "28",
-      "type": "fontSizes"
+    "value": "28",
+    "type": "fontSizes"
     },
     "13": {
-      "value": "30",
-      "type": "fontSizes"
+    "value": "30",
+    "type": "fontSizes"
     }
   },
   "letterSpacing": {
@@ -606,7 +608,9 @@
         "lineHeight": "{lineHeights.3}"
       },
       "type": "typography"
-    },
+    }
+  },
+  "System": {
     "System black": {
       "value": "#000000",
       "type": "color"
