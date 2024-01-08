@@ -64,7 +64,7 @@
       "value": "{Brand.Brand primary 2}",
       "type": "color"
     },
-    "background-skrim": {
+    "background-overlay-skrim": {
       "value": "{System.System black}",
       "type": "color",
       "$extensions": {
@@ -175,18 +175,12 @@
     "system-text-error": {
       "value": "{System.System red}",
       "type": "color"
-    }
-  },
-  "Text": {
-    "text-category": {
+    },
+    "system-number": {
       "value": "{Brand.Brand primary 1}",
       "type": "color"
     },
-    "text-number-brand": {
-      "value": "{Brand.Brand primary 1}",
-      "type": "color"
-    },
-    "text-article": {
+    "system-text-link": {
       "value": "{Brand.Utility blue 1}",
       "type": "color"
     }
