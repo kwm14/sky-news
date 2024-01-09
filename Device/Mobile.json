@@ -131,14 +131,6 @@
     "body-timeline-feed": {
       "value": "{System.Body 2}",
       "type": "typography"
-    },
-    "body-card": {
-      "value": "{System.Subtitle 1}",
-      "type": "typography"
-    },
-    "body-footer": {
-      "value": "{System.Headline 3}",
-      "type": "typography"
     }
   },
   "Nav": {
@@ -187,33 +179,11 @@
     "title-video-rail": {
       "value": "{Brand.Display 4}",
       "type": "typography"
-    },
-    "title-talent-card": {
-      "value": "{System.Headline 3}",
-      "type": "typography"
-    },
-    "title-author-card": {
-      "value": "{Brand.Display 3}",
-      "type": "typography"
-    },
-    "title-more-card": {
-      "value": "{Brand.Display 5}",
-      "type": "typography"
     }
   },
   "Image": {
-    "image-article": {
+    "article": {
       "value": "{Corner radius 0}",
-      "type": "borderRadius"
-    },
-    "image-profile": {
-      "value": "{Corner radius 100}",
-      "type": "borderRadius"
-    }
-  },
-  "Background": {
-    "overlay-icon": {
-      "value": "{Corner radius 100}",
       "type": "borderRadius"
     }
   }
