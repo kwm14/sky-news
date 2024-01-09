@@ -708,5 +708,37 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "Tablet/Brand": {
+    "Display 2": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-headline}",
+        "fontWeight": "{fontWeights.sky-headline-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.10}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Mobile/Brand": {
+    "Display 1": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-headline}",
+        "fontWeight": "{fontWeights.sky-headline-2}",
+        "lineHeight": "{lineHeights.9}",
+        "fontSize": "{fontSize.11}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
   }
 }

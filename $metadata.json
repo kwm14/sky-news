@@ -2,9 +2,6 @@
   "tokenSetOrder": [
     "Styles",
     "Device/Mobile",
-    "Device/Tablet",
-    "Device/remove-1",
-    "Mode/Light",
-    "remove-2"
+    "Mode/Light"
   ]
 }
