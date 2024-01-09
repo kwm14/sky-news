@@ -101,6 +101,19 @@
     "background-breaking": {
       "value": "{Brand.Utility yellow}",
       "type": "color"
+    },
+    "background-oerlay-podcast": {
+      "value": "{System.System white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.85",
+            "space": "lch"
+          }
+        }
+      }
     }
   },
   "Base": {
