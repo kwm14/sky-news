@@ -173,7 +173,7 @@
       "type": "typography"
     },
     "title-number": {
-      "value": "{Mobile.Brand.Display 1}",
+      "value": "{Tablet.Brand.Display 1}",
       "type": "typography"
     },
     "title-hero-tile": {
@@ -185,7 +185,7 @@
       "type": "typography"
     },
     "title-video-rail": {
-      "value": "{Mobile.Brand.Display 3}",
+      "value": "{Mobile.Brand.Display 2}",
       "type": "typography"
     },
     "title-talent-card": {
@@ -193,11 +193,11 @@
       "type": "typography"
     },
     "title-author-card": {
-      "value": "{Mobile.Brand.Display 2}",
+      "value": "{Mobile.Brand.Display 1}",
       "type": "typography"
     },
     "title-more-card": {
-      "value": "{Mobile.Brand.Display 4}",
+      "value": "{Mobile.Brand.Display 3}",
       "type": "typography"
     }
   },
