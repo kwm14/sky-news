@@ -135,6 +135,10 @@
     "body-card": {
       "value": "{System.Subtitle 1}",
       "type": "typography"
+    },
+    "body-footer": {
+      "value": "{System.Headline 3}",
+      "type": "typography"
     }
   },
   "Nav": {
