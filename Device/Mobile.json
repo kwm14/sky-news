@@ -132,7 +132,7 @@
       "value": "{System.Body 2}",
       "type": "typography"
     },
-    "body-talent-card": {
+    "body-card": {
       "value": "{System.Subtitle 1}",
       "type": "typography"
     }
@@ -186,6 +186,10 @@
     },
     "title-talent-card": {
       "value": "{System.Headline 3}",
+      "type": "typography"
+    },
+    "title-author-card": {
+      "value": "{Brand.Display 3}",
       "type": "typography"
     }
   },
