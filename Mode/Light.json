@@ -57,7 +57,7 @@
   },
   "Background": {
     "background-surface": {
-      "value": "{System.System white}",
+      "value": "{System.System grey 8}",
       "type": "color"
     },
     "background-interactive": {
@@ -117,8 +117,7 @@
     },
     "background-profile": {
       "value": "{System.System grey 7}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "background-overlay-icon": {
       "value": "{System.System black}",
