@@ -1,0 +1,220 @@
+{
+  "Buttons": {
+    "button": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    }
+  },
+  "Links": {
+    "link": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    }
+  },
+  "Tags": {
+    "tag-label": {
+      "value": "{Mobile.System.Body 2 strong}",
+      "type": "typography"
+    },
+    "tag": {
+      "value": "{Corner radius 0}",
+      "type": "borderRadius"
+    },
+    "tag-category": {
+      "value": "{Mobile.System.Body 2}",
+      "type": "typography"
+    },
+    "tag-updates": {
+      "value": "{Mobile.System.Body 2 Bold}",
+      "type": "typography"
+    }
+  },
+  "Radius": {
+    "Base": {
+      "base-unfocused": {
+        "value": "{Corner radius 0}",
+        "type": "borderRadius"
+      }
+    },
+    "Buttons": {
+      "button-next": {
+        "value": "{Corner radius 100}",
+        "type": "borderRadius"
+      },
+      "button-share": {
+        "value": "{Corner radius 4}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{Corner radius 4}",
+        "type": "borderRadius"
+      },
+      "toggle": {
+        "value": "{Corner radius 100}",
+        "type": "borderRadius"
+      }
+    },
+    "Input": {
+      "input-field": {
+        "value": "{Corner radius 8}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "Shadows": {
+    "base-shadow": {
+      "value": "{Drop shadow 1}",
+      "type": "boxShadow"
+    }
+  },
+  "Time": {
+    "time-stamp": {
+      "value": "{Mobile.System.Caption 2}",
+      "type": "typography"
+    },
+    "time-label": {
+      "value": "{Mobile.System.Caption 1 strong}",
+      "type": "typography"
+    },
+    "time-duration": {
+      "value": "{Corner radius 4}",
+      "type": "borderRadius"
+    },
+    "time-player-article": {
+      "value": "{Mobile.System.Caption 2}",
+      "type": "typography"
+    },
+    "time-timeline": {
+      "value": "{Mobile.System.Body 2 Bold}",
+      "type": "typography"
+    }
+  },
+  "Input": {
+    "title-cell": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    },
+    "title-cell-strong": {
+      "value": "{Mobile.System.Body 1 strong}",
+      "type": "typography"
+    },
+    "cell-label": {
+      "value": "{Mobile.System.Body 1 strong}",
+      "type": "typography"
+    }
+  },
+  "Body": {
+    "body": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    },
+    "body-player-article": {
+      "value": "{Mobile.System.Caption 1}",
+      "type": "typography"
+    },
+    "body-bullet": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    },
+    "body-more-article": {
+      "value": "{Mobile.System.Body 1 strong}",
+      "type": "typography"
+    },
+    "body-video": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    },
+    "body-video-watching": {
+      "value": "{Mobile.System.Body 2 Bold}",
+      "type": "typography"
+    },
+    "body-timeline-feed": {
+      "value": "{Mobile.System.Body 2}",
+      "type": "typography"
+    },
+    "body-card": {
+      "value": "{Mobile.System.Subtitle 1}",
+      "type": "typography"
+    },
+    "body-footer": {
+      "value": "{Mobile.System.Headline 3}",
+      "type": "typography"
+    }
+  },
+  "Nav": {
+    "nav-tab": {
+      "value": "{Body.body}",
+      "type": "typography"
+    },
+    "nav-tab-strong": {
+      "value": "{Mobile.System.Body 1 strong}",
+      "type": "typography"
+    }
+  },
+  "Title": {
+    "title-media": {
+      "value": "{Mobile.System.Caption 1}",
+      "type": "typography"
+    },
+    "title-question": {
+      "value": "{Mobile.System.Subtitle 1 strong}",
+      "type": "typography"
+    },
+    "title-player-article": {
+      "value": "{Mobile.System.Caption 2}",
+      "type": "typography"
+    },
+    "title-article": {
+      "value": "{Mobile.System.Headline 1}",
+      "type": "typography"
+    },
+    "title-most-read": {
+      "value": "{Mobile.System.Headline 3}",
+      "type": "typography"
+    },
+    "title-number": {
+      "value": "{Mobile.Brand.Display 1}",
+      "type": "typography"
+    },
+    "title-hero-tile": {
+      "value": "{Mobile.System.Headline 3}",
+      "type": "typography"
+    },
+    "title-widget-tile": {
+      "value": "{Mobile.System.Body 1}",
+      "type": "typography"
+    },
+    "title-video-rail": {
+      "value": "{Mobile.Brand.Display 3}",
+      "type": "typography"
+    },
+    "title-talent-card": {
+      "value": "{Mobile.System.Headline 3}",
+      "type": "typography"
+    },
+    "title-author-card": {
+      "value": "{Mobile.Brand.Display 2}",
+      "type": "typography"
+    },
+    "title-more-card": {
+      "value": "{Mobile.Brand.Display 4}",
+      "type": "typography"
+    }
+  },
+  "Image": {
+    "image-article": {
+      "value": "{Corner radius 0}",
+      "type": "borderRadius"
+    },
+    "image-profile": {
+      "value": "{Corner radius 100}",
+      "type": "borderRadius"
+    }
+  },
+  "Background": {
+    "overlay-icon": {
+      "value": "{Corner radius 100}",
+      "type": "borderRadius"
+    }
+  }
+}
