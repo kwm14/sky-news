@@ -102,7 +102,7 @@
       "value": "{Brand.Utility yellow}",
       "type": "color"
     },
-    "background-oerlay-podcast": {
+    "background-overlay-podcast": {
       "value": "{System.System white}",
       "type": "color",
       "$extensions": {
@@ -110,6 +110,24 @@
           "modify": {
             "type": "alpha",
             "value": "0.85",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "background-profile": {
+      "value": "{System.System grey 7}",
+      "type": "color",
+      "$extensions": {}
+    },
+    "background-overlay-icon": {
+      "value": "{System.System black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
             "space": "lch"
           }
         }
