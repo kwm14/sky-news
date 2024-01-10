@@ -106,6 +106,15 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography"
+      },
+      "Display 5": {
+        "value": {
+          "fontFamily": "{fontFamilies.sky-headline}",
+          "fontWeight": "{fontWeights.sky-headline-2}",
+          "fontSize": "{fontSize.2}",
+          "lineHeight": "{lineHeights.3}"
+        },
+        "type": "typography"
       }
     },
     "System": {
@@ -380,6 +389,15 @@
           "paragraphIndent": "{paragraphIndent.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Display 5": {
+        "value": {
+          "fontFamily": "{fontFamilies.sky-headline}",
+          "fontWeight": "{fontWeights.sky-headline-2}",
+          "fontSize": "{fontSize.2}",
+          "lineHeight": "{lineHeights.3}"
         },
         "type": "typography"
       }
