@@ -34,6 +34,10 @@
       "base-unfocused": {
         "value": "{Corner radius 0}",
         "type": "borderRadius"
+      },
+      "base-article-player": {
+        "value": "{Corner radius 8}",
+        "type": "borderRadius"
       }
     },
     "Buttons": {
