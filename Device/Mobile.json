@@ -199,6 +199,10 @@
     "title-more-card": {
       "value": "{Mobile.Brand.Display 3}",
       "type": "typography"
+    },
+    "title-hero-title-strong": {
+      "value": "{Tablet.System.Headline 3 strong}",
+      "type": "typography"
     }
   },
   "Image": {

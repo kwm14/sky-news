@@ -313,6 +313,15 @@
           "lineHeight": "{lineHeights.3}"
         },
         "type": "typography"
+      },
+      "Headline 3 strong": {
+        "value": {
+          "fontFamily": "{fontFamilies.sky-text}",
+          "fontWeight": "{fontWeights.sky-text-1}",
+          "fontSize": "{fontSize.5}",
+          "lineHeight": "{lineHeights.1}"
+        },
+        "type": "typography"
       }
     }
   },
