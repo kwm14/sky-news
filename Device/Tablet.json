@@ -189,7 +189,7 @@
       "type": "typography"
     },
     "title-video-rail": {
-      "value": "{Mobile.Brand.Display 2}",
+      "value": "{Tablet.Brand.Display 1}",
       "type": "typography"
     },
     "title-talent-card": {
