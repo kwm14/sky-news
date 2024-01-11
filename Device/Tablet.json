@@ -137,7 +137,7 @@
       "type": "typography"
     },
     "body-card": {
-      "value": "{Mobile.System.Subtitle 1}",
+      "value": "{Tablet.System.Subtitle 1}",
       "type": "typography"
     },
     "body-footer": {
@@ -197,7 +197,7 @@
       "type": "typography"
     },
     "title-author-card": {
-      "value": "{Mobile.Brand.Display 1}",
+      "value": "{Tablet.Brand.Display 1}",
       "type": "typography"
     },
     "title-more-card": {
