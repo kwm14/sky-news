@@ -181,7 +181,7 @@
       "type": "typography"
     },
     "title-hero-tile": {
-      "value": "{Mobile.System.Headline 3}",
+      "value": "{Mobile.System.Headline 2}",
       "type": "typography"
     },
     "title-widget-tile": {
