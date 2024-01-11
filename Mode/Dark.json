@@ -95,7 +95,7 @@
       "type": "color"
     },
     "background-masthead": {
-      "value": "{System.System linear}",
+      "value": "{System.System grey 1}",
       "type": "color"
     },
     "background-breaking": {
@@ -153,7 +153,7 @@
       "type": "color"
     },
     "icon-primary": {
-      "value": "{System.System grey 3}",
+      "value": "{System.System grey 5}",
       "type": "color"
     },
     "icon-secondary": {
@@ -195,7 +195,7 @@
       "type": "color"
     },
     "system-text-primary": {
-      "value": "{System.System grey 3}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "system-text-secondary": {

@@ -191,11 +191,11 @@
   },
   "System": {
     "system-text-tertiary": {
-      "value": "{System.System grey 6}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "system-text-primary": {
-      "value": "{System.System white}",
+      "value": "{System.System grey 3}",
       "type": "color"
     },
     "system-text-secondary": {
