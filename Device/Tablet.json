@@ -207,6 +207,20 @@
     "title-article-standard": {
       "value": "{Tablet.System.Subtitle 1}",
       "type": "typography"
+    },
+    "title-hero-tile-strong": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-text}",
+        "fontWeight": "{fontWeights.sky-text-1}",
+        "lineHeight": "{lineHeights.11}",
+        "fontSize": "{fontSize.6}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
     }
   },
   "Image": {
