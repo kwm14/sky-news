@@ -9,11 +9,11 @@
       "type": "color"
     },
     "button-primary-fill": {
-      "value": "{Brand.Utility blue 1}",
+      "value": "{Brand.Utility blue 4}",
       "type": "color"
     },
     "button-primary-stroke": {
-      "value": "{Brand.Utility blue 1}",
+      "value": "{Brand.Utility blue 4}",
       "type": "color"
     },
     "button-toggle-fill": {
@@ -21,7 +21,7 @@
       "type": "color"
     },
     "button-text-primary": {
-      "value": "{Brand.Utility blue 1}",
+      "value": "{System.System black}",
       "type": "color"
     }
   },
@@ -57,7 +57,7 @@
   },
   "Background": {
     "background-surface": {
-      "value": "{System.System grey 8}",
+      "value": "{System.System grey 1}",
       "type": "color"
     },
     "background-interactive": {
@@ -135,7 +135,7 @@
   },
   "Base": {
     "base-unfocused": {
-      "value": "{System.System white}",
+      "value": "{System.System grey 2}",
       "type": "color"
     },
     "base-stroke": {
@@ -191,15 +191,15 @@
   },
   "System": {
     "system-text-tertiary": {
-      "value": "{System.System grey 6}",
-      "type": "color"
-    },
-    "system-text-primary": {
       "value": "{System.System white}",
       "type": "color"
     },
+    "system-text-primary": {
+      "value": "{System.System grey 3}",
+      "type": "color"
+    },
     "system-text-secondary": {
-      "value": "{System.System grey 7}",
+      "value": "{System.System grey 5}",
       "type": "color"
     },
     "system-text-error": {
@@ -211,7 +211,7 @@
       "type": "color"
     },
     "system-text-link": {
-      "value": "{Brand.Utility blue 1}",
+      "value": "{Brand.Utility blue 3}",
       "type": "color"
     }
   },
@@ -221,11 +221,11 @@
       "type": "color"
     },
     "cell-input-stroke": {
-      "value": "{System.System grey 7}",
+      "value": "{System.System grey 4}",
       "type": "color"
     },
     "cell-toggle-stroke": {
-      "value": "{System.System grey 6}",
+      "value": "{System.System grey 4}",
       "type": "color"
     },
     "cell-toggle-background": {
@@ -235,7 +235,7 @@
   },
   "Nav": {
     "nav-tab-primary": {
-      "value": "{Brand.Utility blue 1}",
+      "value": "{Brand.Utility blue 4}",
       "type": "color"
     },
     "nav-tab-secondary": {
@@ -243,7 +243,7 @@
       "type": "color"
     },
     "nav-text-primary": {
-      "value": "{System.System grey 3}",
+      "value": "{System.System white}",
       "type": "color"
     },
     "nav-text-secondary": {

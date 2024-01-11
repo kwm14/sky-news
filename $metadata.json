@@ -3,6 +3,7 @@
     "Styles",
     "Device/Mobile",
     "Device/Tablet",
-    "Mode/Light"
+    "Mode/Light",
+    "Mode/Dark"
   ]
 }
