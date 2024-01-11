@@ -136,7 +136,7 @@
         "value": {
           "fontFamily": "{fontFamilies.sky-text}",
           "fontWeight": "{fontWeights.sky-text-0}",
-          "lineHeight": "{lineHeights.0}",
+          "lineHeight": "{lineHeights.11}",
           "fontSize": "{fontSize.6}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -150,7 +150,7 @@
         "value": {
           "fontFamily": "{fontFamilies.sky-text}",
           "fontWeight": "{fontWeights.sky-text-2}",
-          "lineHeight": "{lineHeights.0}",
+          "lineHeight": "{lineHeights.11}",
           "fontSize": "{fontSize.6}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
