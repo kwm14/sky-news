@@ -203,6 +203,15 @@
     "title-more-card": {
       "value": "{Mobile.Brand.Display 3}",
       "type": "typography"
+    },
+    "title-article-standard": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-text}",
+        "fontWeight": "{fontWeights.sky-text-0}",
+        "fontSize": "{fontSize.4}",
+        "lineHeight": "{lineHeights.1}"
+      },
+      "type": "typography"
     }
   },
   "Image": {

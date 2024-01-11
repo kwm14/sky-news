@@ -207,6 +207,15 @@
     "title-hero-title-strong": {
       "value": "{Tablet.System.Headline 3 strong}",
       "type": "typography"
+    },
+    "title-article-standard": {
+      "value": {
+        "fontFamily": "{fontFamilies.sky-text}",
+        "fontWeight": "{fontWeights.sky-text-0}",
+        "fontSize": "{fontSize.4}",
+        "lineHeight": "{lineHeights.1}"
+      },
+      "type": "typography"
     }
   },
   "Image": {
