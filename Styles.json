@@ -1006,5 +1006,9 @@
   "logo-secondary": {
     "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/Logo-Secondary.png",
     "type": "asset"
+  },
+  "glint": {
+    "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/glint.png",
+    "type": "asset"
   }
 }

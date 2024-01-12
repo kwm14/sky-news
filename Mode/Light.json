@@ -254,5 +254,9 @@
   "masthead-logo": {
     "value": "{logo-primary}",
     "type": "asset"
+  },
+  "masthead-glint": {
+    "value": "{glint}",
+    "type": "asset"
   }
 }
