@@ -1000,11 +1000,11 @@
     "type": "boxShadow"
   },
   "logo-primary": {
-    "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/Logo-Primary.png?token=GHSAT0AAAAAACLOYK4YCHYSAN7O4LEO222CZNBKIJA",
+    "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/Logo-Primary.png",
     "type": "asset"
   },
   "logo-secondary": {
-    "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/Logo-Secondary.png?token=GHSAT0AAAAAACLOYK4ZM3ICJLPWU22FFQHMZNBKI2A",
+    "value": "https://raw.githubusercontent.com/kwm14/sky-news/main/Assets/Logo-Secondary.png",
     "type": "asset"
   }
 }
