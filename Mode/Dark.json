@@ -250,5 +250,9 @@
       "value": "{System.System white}",
       "type": "color"
     }
+  },
+  "masthead-logo": {
+    "value": "{logo-secondary}",
+    "type": "asset"
   }
 }
